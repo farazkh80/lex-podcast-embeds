@@ -1,5 +1,4 @@
 regex
 cohere
-streamlit
 plotly
-scikitleran
+scikit-leran

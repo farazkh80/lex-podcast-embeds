@@ -97,14 +97,14 @@ def visualize_clusters_plotly(embeds, episodes, n_clusters=10):
     # add colors
     cluster_summary = group_clusters(labels, episodes)
     colors = [cluster_summary[i] for i in labels]
-    fig = px.scatter(x=embeds[:,0], y=embeds[:,1], color=colors, hover_name=episodes, width=5000, height=600)
+    fig = px.scatter(x=embeds[:,0], y=embeds[:,1], color=colors, hover_name=episodes, width=5000, height=580)
     st.plotly_chart(fig, use_container_width=True)
 
 
 
 if __name__=="__main__":
     st.title("Lex Fridman Podcast Episode Titles' Semantic Relevance")
-    st.write("Made by [Faraz](https://twitter.com/FarazDoTAI) using [Cohere](https://cohere.ai/) embedding models and [Andrej Karpathy's Lexicap](https://karpathy.ai/lexicap/)")
+    st.write("Made by [Faraz](https://twitter.com/FarazDoTAI) using [Cohere](https://cohere.ai/) embedding models and [Andrej Karpathy's Lexicap](https://karpathy.ai/lexicap/) trasncripts of [Lex Fridman Podcast](https://lexfridman.com/podcast/)")
     st.write("Code can be found [here](https://github.com/farazkh80/lex-podcast-embeds/tree/master)")
     
     # To compute and save embeddings

@@ -1,0 +1,320 @@
+x,y,episodes
+3.977733957715689,19.72195940485474,Max Tegmark: Life 3.0 | Lex Fridman Podcast #1
+8.697065111626207,31.090967146776595,Christof Koch: Consciousness | Lex Fridman Podcast #2
+13.180625940513355,4.441856233589432,Steven Pinker: AI in the Age of Reason | Lex Fridman Podcast #3
+23.34033800867924,-16.03230462173316,Yoshua Bengio: Deep Learning | Lex Fridman Podcast #4
+24.559308347462707,-11.756597332490738,Vladimir Vapnik: Statistical Learning | Lex Fridman Podcast #5
+9.849296387018029,-21.23715501849253,Guido van Rossum: Python | Lex Fridman Podcast #6
+-1.7256612067798838,-15.53428940593246,Jeff Atwood: Stack Overflow and Coding Horror | Lex Fridman Podcast #7
+-1.8449526794537108,-20.538387864652027,Eric Schmidt: Google | Lex Fridman Podcast #8
+22.647381522988084,-1.0167873670882408,Stuart Russell: Long-Term Future of Artificial Intelligence | Lex Fridman Podcast #9
+23.237823658198256,-10.424896150848872,Pieter Abbeel: Deep Reinforcement Learning | Lex Fridman Podcast #10
+27.503942780456974,-3.986549943473931,"Juergen Schmidhuber: Godel Machines, Meta-Learning, and LSTMs | Lex Fridman Podcast #11"
+3.9034758629870936,-10.188105192778409,Tuomas Sandholm: Poker and Game Theory | Lex Fridman Podcast #12
+26.25187788045946,17.18352518097829,"Tomaso Poggio: Brains, Minds, and Machines | Lex Fridman Podcast #13"
+10.291564445940452,-21.63592471564986,Kyle Vogt: Cruise Automation | Lex Fridman Podcast #14
+27.799027635256447,-7.165057058230442,"Leslie Kaelbling: Reinforcement Learning, Planning, and Robotics | Lex Fridman Podcast #15"
+-1.9300495714619994,8.915884855019556,"Eric Weinstein: Revolutionary Ideas in Science, Math, and Society | Lex Fridman Podcast #16"
+26.898522175402867,-6.9958472568264005,Greg Brockman: OpenAI and AGI | Lex Fridman Podcast #17
+2.646609533443006,-21.132256061018143,Elon Musk: Tesla Autopilot | Lex Fridman Podcast #18
+16.770391390396696,-8.62833725977221,Ian Goodfellow: Generative Adversarial Networks (GANs) | Lex Fridman Podcast #19
+23.405116544414263,-10.054483670873621,"Oriol Vinyals: DeepMind AlphaStar, StarCraft, and Language | Lex Fridman Podcast #20"
+14.60982554402023,-24.219447366723983,"Chris Lattner: Compilers, LLVM, Swift, TPU, and ML Accelerators | Lex Fridman Podcast #21"
+21.417826163156,-24.62827672450509,Rajat Monga: TensorFlow | Lex Fridman Podcast #22
+15.853609088641237,-15.774722738086583,Gavin Miller: Adobe Research | Lex Fridman Podcast #23
+18.74168408400624,-0.33215854696773633,"Rosalind Picard: Affective Computing, Emotion, Privacy, and Health | Lex Fridman Podcast #24"
+21.763425301594612,19.11281266240768,Jeff Hawkins: Thousand Brains Theory of Intelligence | Lex Fridman Podcast #25
+10.280398560471848,33.14221662031393,"Sean Carroll: The Nature of the Universe, Life, and Intelligence | Lex Fridman Podcast #26"
+10.204741606372886,-12.701886890177008,Kai-Fu Lee: AI Superpowers - China and Silicon Valley | Lex Fridman Podcast #27
+16.684834124439625,-20.39391681171517,"Chris Urmson: Self-Driving Cars at Aurora, Google, CMU, and DARPA | Lex Fridman Podcast #28"
+-11.195730200700002,-12.313111897135064,Gustav Soderstrom: Spotify | Lex Fridman Podcast #29
+1.8735164314083113,-18.527386570086097,Kevin Scott: Microsoft CTO | Lex Fridman Podcast #30
+11.62425438334157,-24.2173498616181,"George Hotz: Comma.ai, OpenPilot, and Autonomous Vehicles | Lex Fridman Podcast #31"
+3.6006132004511993,16.101230691297186,Paola Arlotta: Brain Development from Stem Cell to Organoid | Lex Fridman Podcast #32
+-9.886236576660451,-13.698788058691704,Keoki Jackson: Lockheed Martin | Lex Fridman Podcast #33
+23.465610187714393,3.9010289386428263,Pamela McCorduck: Machines Who Think and the Early Days of AI | Lex Fridman Podcast #34
+27.19465863710473,-18.16301529603072,Jeremy Howard: fast.ai Deep Learning Courses and Research | Lex Fridman Podcast #35
+28.76528501058774,-10.095514730934513,"Yann LeCun: Deep Learning, ConvNets, and Self-Supervised Learning | Lex Fridman Podcast #36"
+7.129538775786559,-13.127923182660348,Vijay Kumar: Flying Robots | Lex Fridman Podcast #37
+31.51452443152321,-12.660706490299754,"François Chollet: Keras, Deep Learning, and the Progress of AI | Lex Fridman Podcast #38"
+-2.9143788842936837,-15.651627513489597,Colin Angle: iRobot CEO | Lex Fridman Podcast #39
+23.815120068121157,-7.119491847403083,Regina Barzilay: Deep Learning for Cancer Diagnosis and Treatment | Lex Fridman Podcast #40
+-3.311468497673956,12.471457666528584,"Leonard Susskind: Quantum Mechanics, String Theory and Black Holes | Lex Fridman Podcast #41"
+30.83919731894619,-8.61675542669872,Peter Norvig: Artificial Intelligence: A Modern Approach | Lex Fridman Podcast #42
+27.819443660759585,-7.498857562269085,Gary Marcus: Toward a Hybrid of Deep Learning and Symbolic AI | Lex Fridman Podcast #43
+20.33202405634335,-11.803281656446595,"David Ferrucci: IBM Watson, Jeopardy & Deep Conversations with AI | Lex Fridman Podcast #44"
+-2.33772594188141,14.01427298154685,"Michio Kaku: Future of Humans, Aliens, Space Travel & Physics | Lex Fridman Podcast #45"
+6.94952596138754,-9.554488965441468,"Garry Kasparov: Chess, Deep Blue, AI, and Putin | Lex Fridman Podcast #46"
+5.036928329914029,18.089537030456782,Sean Carroll: Quantum Mechanics and the Many-Worlds Interpretation | Lex Fridman Podcast #47
+1.6412246633064702,-18.76054055025902,Bjarne Stroustrup: C++ | Lex Fridman Podcast #48
+14.413176027778,-5.142257620076847,"Elon Musk: Neuralink, AI, Autopilot, and the Pale Blue Dot | Lex Fridman Podcast #49"
+10.93957716149868,-18.918199992196037,"Michael Kearns: Algorithmic Fairness, Privacy & Ethics | Lex Fridman Podcast #50"
+-3.971519579545138,9.627449284167197,"Dava Newman: Space Exploration, Space Suits, and Life on Mars | Lex Fridman Podcast #51"
+9.387731267695266,-13.157734659781413,"Gilbert Strang: Linear Algebra, Teaching, and MIT OpenCourseWare | Lex Fridman Podcast #52"
+23.86366560589456,-0.45470225543624787,"Noam Chomsky: Language, Cognition, and Deep Learning | Lex Fridman Podcast #53"
+4.918812326215168,-0.6690568724850297,"Ray Dalio: Principles, the Economic Machine, AI & the Arc of Life | Lex Fridman Podcast #54"
+5.05344419160623,7.82290045272574,"Whitney Cummings: Comedy, Robotics, Neurology, and Love | Lex Fridman Podcast #55"
+22.00743756985935,7.998183308028015,"Judea Pearl: Causal Reasoning, Counterfactuals, and the Path to AGI | Lex Fridman Podcast #56"
+17.333672270752004,-18.182354449329623,Rohit Prasad: Amazon Alexa and Conversational AI | Lex Fridman Podcast #57
+-19.59431399721286,-0.07817136331311093,Michael Stevens: Vsauce | Lex Fridman Podcast #58
+12.860877888737026,-13.427101922629847,"Sebastian Thrun: Flying Cars, Autonomous Vehicles, and Education | Lex Fridman Podcast #59"
+-3.80669204076184,9.208442084717708,"Jim Gates: Supersymmetry, String Theory and Proving Einstein Right | Lex Fridman Podcast #60"
+24.240791775473316,6.02250290967982,"Melanie Mitchell: Concepts, Analogies, Common Sense & Future of AI | Lex Fridman Podcast #61"
+17.096187152605076,-11.238190635166951,"Donald Knuth: Algorithms, Complexity, and The Art of Computer Programming | Lex Fridman Podcast #62"
+-22.47510898125904,-5.375306580615237,"Stephen Kotkin: Stalin, Putin, and the Nature of Power | Lex Fridman Podcast #63"
+6.198294152191584,6.248328256290704,Grant Sanderson: 3Blue1Brown and the Beauty of Mathematics | Lex Fridman Podcast #64
+20.50452114595808,3.736741417716209,"Daniel Kahneman: Thinking Fast and Slow, Deep Learning, and AI | Lex Fridman Podcast #65"
+8.716957436583582,-4.94394649882348,Ayanna Howard: Human-Robot Interaction & Ethics of Safety-Critical Systems | Lex Fridman Podcast #66
+-2.3122573356466964,-10.276240072661304,"Paul Krugman: Economics of Innovation, Automation, Safety Nets & UBI | Lex Fridman Podcast #67"
+9.305926990591798,-16.80007655454367,Cristos Goodrow: YouTube Algorithm | Lex Fridman Podcast #68
+8.861536436107743,29.95523152447311,David Chalmers: The Hard Problem of Consciousness | Lex Fridman Podcast #69
+9.81076074031653,-8.386069413271999,"Jim Keller: Moore's Law, Microprocessors, and First Principles | Lex Fridman Podcast #70"
+29.93358954258336,3.9899289172525467,"Vladimir Vapnik: Predicates, Invariants, and the Essence of Intelligence | Lex Fridman Podcast #71"
+11.753234443338881,-5.712684200073456,Scott Aaronson: Quantum Computing | Lex Fridman Podcast #72
+26.607125729421934,-16.97776414330101,"Andrew Ng: Deep Learning, Education, and Real-World AI | Lex Fridman Podcast #73"
+21.69071007233778,-13.045042270144037,"Michael I. Jordan: Machine Learning, Recommender Systems, and Future of AI | Lex Fridman Podcast #74"
+30.290978060216194,5.234580768295236,"Marcus Hutter: Universal Artificial Intelligence, AIXI, and AGI | Lex Fridman Podcast #75"
+29.673773434406407,24.919353792639704,John Hopfield: Physics View of the Mind and Neurobiology | Lex Fridman Podcast #76
+1.5098532122334134,13.96776230752266,"Alex Garland: Ex Machina, Devs, Annihilation, and the Poetry of Science | Lex Fridman Podcast #77"
+-1.449667888552488,25.07781852878695,"Ann Druyan: Cosmos, Carl Sagan, Voyager, and the Beauty of Science | Lex Fridman Podcast #78"
+-3.785952550138413,11.259368010913736,Lee Smolin: Quantum Gravity and Einstein's Unfinished Revolution | Lex Fridman Podcast #79
+-10.759105749241508,-18.84613499037654,"Vitalik Buterin: Ethereum, Cryptocurrency, and the Future of Money | Lex Fridman Podcast #80"
+19.522588327970187,-6.223374702494357,Anca Dragan: Human-Robot Interaction and Reward Engineering | Lex Fridman Podcast #81
+-12.092776984816801,2.861400755177142,"Simon Sinek: Leadership, Hard Work, Optimism and the Infinite Game | Lex Fridman Podcast #82"
+19.53043450083708,8.898568935637716,Nick Bostrom: Simulation and Superintelligence | Lex Fridman Podcast #83
+-4.356377663221567,5.059992818334779,William MacAskill: Effective Altruism | Lex Fridman Podcast #84
+5.796169106370268,30.99589281607737,Roger Penrose: Physics of Consciousness and the Infinite Universe | Lex Fridman Podcast #85
+25.192368261964084,-10.844600694555911,"David Silver: AlphaGo, AlphaZero, and Deep Reinforcement Learning | Lex Fridman Podcast #86"
+9.294964193926708,22.257166672315474,"Richard Dawkins: Evolution, Intelligence, Simulation, and Memes | Lex Fridman Podcast #87"
+-11.931985767792979,6.820617023601008,Eric Weinstein: Geometric Unity and the Call for New Ideas & Institutions | Lex Fridman Podcast #88
+19.96942452252346,8.335947218259523,"Stephen Wolfram: Cellular Automata, Computation, and Physics | Lex Fridman Podcast #89"
+14.624458629290737,-10.016869697555345,Dmitry Korkin: Computational Biology of Coronavirus | Lex Fridman Podcast #90
+2.1304272472719044,-18.967107133779237,"Jack Dorsey: Square, Cryptocurrency, and Artificial Intelligence | Lex Fridman Podcast #91"
+1.6069423590069685,1.1459856713182743,Harry Cliff: Particle Physics and the Large Hadron Collider | Lex Fridman Podcast #92
+29.540497868938715,0.43215675657954944,Daphne Koller: Biomedicine and Machine Learning | Lex Fridman Podcast #93
+21.91682615205302,-19.42938211280128,Ilya Sutskever: Deep Learning | Lex Fridman Podcast #94
+23.020709017868242,-17.3448201066351,Dawn Song: Adversarial Machine Learning and Computer Security | Lex Fridman Podcast #95
+10.171744473962057,-12.290970805028097,"Stephen Schwarzman: Going Big in Business, Investing, and AI | Lex Fridman Podcast #96"
+12.59486273843299,-10.054002728224605,Sertac Karaman: Robots That Fly and Robots That Drive | Lex Fridman Podcast #97
+5.859390288552416,-1.886512058552361,Kate Darling: Social Robotics | Lex Fridman Podcast #98
+16.70839914304606,26.017643792137836,Karl Friston: Neuroscience and the Free Energy Principle | Lex Fridman Podcast #99
+23.001930347746974,20.146621901838397,Joscha Bach: Artificial Consciousness and the Nature of Reality | Lex Fridman Podcast #101
+-23.09700046695853,0.33344926741029346,Steven Pressfield: The War of Art | Lex Fridman Podcast #102
+25.203180713516588,-1.6384612883973166,Ben Goertzel: Artificial General Intelligence | Lex Fridman Podcast #103
+10.22584478229051,-12.878735654827405,David Patterson: Computer Architecture and Data Storage | Lex Fridman Podcast #104
+-6.608874810083925,11.168251914662418,Robert Langer: Edison of Medicine | Lex Fridman Podcast #105
+31.78644147203603,5.684482821630829,"Matt Botvinick: Neuroscience, Psychology, and AI at DeepMind | Lex Fridman Podcast #106"
+7.957592818357725,13.434406347383158,"Peter Singer: Suffering in Humans, Animals, and AI | Lex Fridman Podcast #107"
+30.61316421758421,-16.33453679084719,Sergey Levine: Robotics and Machine Learning | Lex Fridman Podcast #108
+8.341748205414621,-16.81687393947211,"Brian Kernighan: UNIX, C, AWK, AMPL, and Go Programming | Lex Fridman Podcast #109"
+23.1124979284364,-12.91317734766293,Jitendra Malik: Computer Vision | Lex Fridman Podcast #110
+20.162241297377122,-12.25424430705748,Richard Karp: Algorithms and Computational Complexity | Lex Fridman Podcast #111
+-10.850795883695712,14.10592481715992,"Ian Hutchinson: Nuclear Fusion, Plasma Physics, and Religion | Lex Fridman Podcast #112"
+-2.225005663025419,11.146344302149629,Manolis Kellis: Human Genome and Evolutionary Dynamics | Lex Fridman Podcast #113
+8.25551639459521,-7.3927719414931765,"Russ Tedrake: Underactuated Robotics, Control, Dynamics and Touch | Lex Fridman Podcast #114"
+31.523327065333678,13.217992483916483,Dileep George: Brain-Inspired AI | Lex Fridman Podcast #115
+2.5669895553896924,14.200166210807305,Sara Seager: Search for Planets and Life Outside Our Solar System | Lex Fridman Podcast #116
+-12.266961436252997,19.1532218819206,Sheldon Solomon: Death and Meaning | Lex Fridman Podcast #117
+23.033704232737122,-8.521749047524578,"Grant Sanderson: Math, Manim, Neural Networks & Teaching with 3Blue1Brown | Lex Fridman Podcast #118"
+11.140578440798432,23.373069646319124,David Eagleman: Neuroplasticity and the Livewired Brain | Lex Fridman Podcast #119
+15.26873804023279,9.019197291230661,François Chollet: Measures of Intelligence | Lex Fridman Podcast #120
+16.157630839275317,-2.5539246886326206,Eugenia Kuyda: Friendship with an AI Companion | Lex Fridman Podcast #121
+-9.642798630751981,2.244244309358536,"David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122"
+-4.164538077145253,31.863682025528025,"Manolis Kellis: Origin of Life, Humans, Ideas, Suffering, and Happiness | Lex Fridman Podcast #123"
+8.337271963177923,19.544207453725157,"Stephen Wolfram: Fundamental Theory of Physics, Life, and the Universe | Lex Fridman Podcast #124"
+-26.527094889068856,4.614108099239354,"Ryan Hall: Martial Arts and the Philosophy of Violence, Power, and Grace | Lex Fridman Podcast #125"
+5.07614582338498,-13.714756438437126,"James Gosling: Java, JVM, Emacs, and the Early Days of Computing | Lex Fridman Podcast #126"
+-22.570479415262753,1.8688995920128775,"Joe Rogan: Fear, Love, Chaos, and the Joe Rogan Experience | Lex Fridman Podcast #127"
+-25.176662813135653,-5.091049488933421,"Michael Malice: Anarchy, Democracy, Libertarianism, Love, and Trolling | Lex Fridman Podcast #128"
+9.474661519603917,25.128185720173008,Lisa Feldman Barrett: Counterintuitive Ideas About How the Brain Works | Lex Fridman Podcast #129
+24.67958154926867,24.408840693780434,Scott Aaronson: Computational Complexity and Consciousness | Lex Fridman Podcast #130
+15.728720569440346,-17.75854332282936,Chris Lattner: The Future of Computing and Programming Languages | Lex Fridman Podcast #131
+23.224964614356754,-18.388695521389746,George Hotz: Hacking the Simulation & Learning to Drive with Neural Nets | Lex Fridman Podcast #132
+-10.22971732725712,9.860567328138137,Manolis Kellis: Biology of Disease | Lex Fridman Podcast #133
+-11.293631805365905,20.06878149386782,"Eric Weinstein: On the Nature of Good and Evil, Genius and Madness | Lex Fridman Podcast #134"
+14.975153702123675,-11.406478337255441,"Charles Isbell: Computing, Interactive AI, and Race in America | Lex Fridman Podcast #135"
+-31.765842262680195,-3.8776798649071598,Dan Carlin: Hardcore History | Lex Fridman Podcast #136
+-3.0387416578852675,13.746122144958575,"Alex Filippenko: Supernovae, Dark Energy, Aliens & the Expanding Universe | Lex Fridman Podcast #137"
+-14.25640371170027,3.6902031837184426,Yaron Brook: Ayn Rand and the Philosophy of Objectivism | Lex Fridman Podcast #138
+5.194792215629441,15.802730771457044,Andrew Huberman: Neuroscience of Optimal Performance | Lex Fridman Podcast #139
+0.795503732882025,29.269832328960863,"Lisa Feldman Barrett: Love, Evolution, and the Human Brain | Lex Fridman Podcast #140"
+10.637633120038682,-12.806061895558084,"Erik Brynjolfsson: Economics of AI, Social Networks, and Technology | Lex Fridman Podcast #141"
+-7.046934599856539,19.654703603673845,"Manolis Kellis: Meaning of Life, the Universe, and Everything | Lex Fridman Podcast #142"
+-17.202340075483104,-2.2337868586079583,John Clarke: The Art of Fighting and the Pursuit of Excellence | Lex Fridman Podcast #143
+25.991989618565036,-9.119060691336841,Michael Littman: Reinforcement Learning and the Future of AI | Lex Fridman Podcast #144
+-19.55588274251723,11.876912345760967,Matthew Johnson: Psychedelics | Lex Fridman Podcast #145
+4.631478765448697,-5.337458227503472,"Michael Mina: Rapid Testing, Viruses, and the Engineering Mindset | Lex Fridman Podcast #146"
+13.279595099943506,-24.44441039917356,Dmitri Dolgov: Waymo and the Future of Self-Driving Cars | Lex Fridman Podcast #147
+30.005080325693754,-13.872780914347171,Charles Isbell and Michael Littman: Machine Learning and Education | Lex Fridman Podcast #148
+-6.597447133456132,22.206140101691204,"Diana Walsh Pasulka: Aliens, Technology, Religion & the Nature of Belief | Lex Fridman Podcast #149"
+-23.937280998893723,5.028999908417564,"Michael Malice: The White Pill, Freedom, Hope, and Happiness Amidst Chaos | Lex Fridman Podcast #150"
+24.049760656418343,-14.353835822759219,Dan Kokotov: Speech Recognition with AI and Humans | Lex Fridman Podcast #151
+-17.455460863405087,1.7161392471687773,"Dan Gable: Olympic Wrestling, Mental Toughness & the Making of Champions | Lex Fridman Podcast #152"
+13.936599214753954,10.297645531580903,"Dmitry Korkin: Evolution of Proteins, Viruses, Life, and AI | Lex Fridman Podcast #153"
+-3.32675423583183,12.718909217434211,"Avi Loeb: Aliens, Black Holes, and the Mystery of the Oumuamua | Lex Fridman Podcast #154"
+20.348910360226057,7.413658187092946,Max Tegmark: AI and Physics | Lex Fridman Podcast #155
+-27.86688586651104,-2.4871420750872946,"Tim Dillon: Comedy, Power, Conspiracy Theories, and Freedom | Lex Fridman Podcast #156"
+-1.1876839655233116,-9.169257976743069,Natalya Bailey: Rocket Engines and Electric Spacecraft Propulsion | Lex Fridman Podcast #157
+-0.49287221289427813,4.782827584437788,Zev Weinstein: The Next Generation of Big Ideas and Brave Minds | Lex Fridman Podcast #158
+1.1543097213406135,-14.319098474036176,"Richard Craib: WallStreetBets, Numerai, and the Future of Stock Trading | Lex Fridman Podcast #159"
+0.7006382722590458,-17.400021285541488,"Brendan Eich: JavaScript, Firefox, Mozilla, and Brave | Lex Fridman Podcast #160"
+-17.553074279751545,-17.45678091970222,"Jason Calacanis: Startups, Angel Investing, Capitalism, and Friendship | Lex Fridman Podcast #161"
+22.78468687392511,19.137211335068397,"Jim Keller: The Future of Computing, AI, Life, and Consciousness | Lex Fridman Podcast #162"
+-12.142142912038087,2.962606896028285,"Eric Weinstein: Difficult Conversations, Freedom of Speech, and Physics | Lex Fridman Podcast #163"
+-0.919064026324727,29.5326472789379,"Andrew Huberman: Sleep, Dreams, Creativity, Fasting, and Neuroplasticity | Lex Fridman Podcast #164"
+-20.75073773329663,2.876230561215863,"Josh Barnett: Philosophy of Violence, Power, and the Martial Arts | Lex Fridman #165"
+-6.569993396456231,-3.3992977519127487,"Cal Newport: Deep Work, Focus, Productivity, Email, and Social Media | Lex Fridman Podcast #166"
+-23.569047523882002,-5.682978872329815,"Saagar Enjeti: Politics, History, and Power | Lex Fridman Podcast #167"
+-11.061449643554571,-19.960273119641016,"Silvio Micali: Cryptocurrency, Blockchain, Algorand, Bitcoin & Ethereum | Lex Fridman Podcast #168"
+-2.0153865906426844,-6.866055878574946,Ryan Hall: Solving Martial Arts from First Principles | Lex Fridman Podcast #169
+-21.95458846261811,8.56178058771487,Ronald Sullivan: The Ideal of Justice in the Face of Controversy and Evil | Lex Fridman Podcast #170
+-19.043061936791812,-22.052615613741967,Anthony Pompliano: Bitcoin | Lex Fridman Podcast #171
+-10.539824477595166,-9.561697821307764,Ryan Schiller: Librex and the Free Exchange of Ideas on College Campuses | Lex Fridman Podcast #172
+-8.44341695355259,-17.132934394386112,"Nic Carter: Bitcoin Core Values, Layered Scaling, and Blocksize Debates | Lex Fridman Podcast #173"
+-17.97724791025537,1.7043140242282395,Tyler Cowen: Economic Growth & the Fight Against Conformity & Mediocrity | Lex Fridman Podcast #174
+-21.755611647801157,-1.6512649474396044,Yannis Pappas: History and Comedy | Lex Fridman Podcast #175
+-13.027166803348498,-13.886620819875391,Robert Breedlove: Philosophy of Bitcoin from First Principles | Lex Fridman Podcast #176
+28.601630098574685,11.532303071860591,Risto Miikkulainen: Neuroevolution and Evolutionary Computation | Lex Fridman Podcast #177
+-20.042892859015982,3.4538696167644383,"Michael Malice and Yaron Brook: Ayn Rand, Human Nature, and Anarchy | Lex Fridman Podcast #178"
+-13.401097274505926,-1.2023750279868133,Georges St-Pierre: The Science of Fighting | Lex Fridman Podcast #179
+-26.9004537840449,-8.673712684859861,Jeremi Suri: History of American Power | Lex Fridman Podcast #180
+-0.04506645565214268,-21.633092448475857,"Sergey Nazarov: Chainlink, Smart Contracts, and Oracle Networks | Lex Fridman Podcast #181"
+-15.585683123091487,-5.2004808735058194,"John Danaher: The Path to Mastery in Jiu Jitsu, Grappling, Judo, and MMA | Lex Fridman Podcast #182"
+0.951818684615912,-12.604850546323492,"Po-Shen Loh: Mathematics, Math Olympiad, Combinatorics & Contact Tracing | Lex Fridman Podcast #183"
+-1.0992386407612955,8.125338963442013,"Katherine de Kleer: Planets, Moons, Asteroids & Life in Our Solar System | Lex Fridman Podcast #184"
+-0.8794231414924034,24.7526058631685,"Sam Harris: Consciousness, Free Will, Psychedelics, AI, UFOs, and Meaning | Lex Fridman Podcast #185"
+23.137489418362325,13.513129278515631,Bryan Johnson: Kernel Brain-Computer Interfaces | Lex Fridman Podcast #186
+0.6942047169664609,20.55884718312943,"Frank Wilczek: Physics of Quarks, Dark Matter, Complexity, Life & Aliens | Lex Fridman Podcast #187"
+-5.646171082819053,-19.66430781615377,Vitalik Buterin: Ethereum 2.0 | Lex Fridman Podcast #188
+-5.876367155039375,20.198066404915544,David Sinclair: Extending the Human Lifespan Beyond 100 Years | Lex Fridman Podcast #189
+3.092538495037884,2.425058689015132,Jordan Ellenberg: Mathematics of High-Dimensional Shapes and Geometries | Lex Fridman Podcast #190
+-16.823025739287093,11.238481757168906,Daniel Schmachtenberger: Steering Civilization Away from Self-Destruction | Lex Fridman Podcast #191
+-12.278934762544322,-16.103620067766084,Charles Hoskinson: Cardano | Lex Fridman Podcast #192
+-3.499785560119397,-8.073993638687593,Rob Reid: The Existential Threat of Engineered Viruses and Lab Leaks | Lex Fridman Podcast #193
+-19.0616796319293,-0.8064550711347689,"Bret Weinstein: Truth, Science, and Censorship in the Time of a Pandemic | Lex Fridman Podcast #194"
+2.516840148294487,15.635885584420045,Clara Sousa-Silva: Searching for Signs of Life on Venus and Other Planets | Lex Fridman Podcast #195
+-19.695949101215813,-11.516474862441408,Yeonmi Park: North Korea | Lex Fridman Podcast #196
+-21.776951539036205,-6.427025154767732,"Jocko Willink: War, Leadership, and Discipline | Lex Fridman Podcast #197"
+-1.3563837092950872,26.223225961903065,Sara Walker: The Origin of Life on Earth and Alien Worlds | Lex Fridman Podcast #198
+-25.70321965547811,-6.4845279067844,Roger Reaves: Smuggling Drugs for Pablo Escobar and the Medellin Cartel | Lex Fridman Podcast #199
+-26.18939989001986,-6.524108290561263,Michael Malice: Totalitarianism and Anarchy | Lex Fridman Podcast #200
+-8.409680359344517,2.7016503581030564,Konstantin Batygin: Planet 9 and the Edge of Our Solar System | Lex Fridman Podcast #201
+-23.074195725988407,10.25022039707787,Rick Doblin: Psychedelics | Lex Fridman Podcast #202
+-9.239210389428937,8.268233358001746,Anya Fernald: Regenerative Farming and the Art of Cooking Meat | Lex Fridman Podcast #203
+-3.4076609601292174,13.541578201989827,Cumrun Vafa: String Theory | Lex Fridman Podcast #204
+-17.408730876101494,-6.183077224720834,Zach Bitter: Ultramarathon Running | Lex Fridman Podcast #205
+24.179881231066844,-11.609559427844292,Ishan Misra: Self-Supervised Deep Learning in Computer Vision | Lex Fridman Podcast #206
+-11.905268004100114,3.8348212433317377,Chris Duffin: The Mad Scientist of Strength | Lex Fridman Podcast #207
+22.507256336290013,19.408725881864743,Jeff Hawkins: The Thousand Brains Theory of Intelligence | Lex Fridman Podcast #208
+-1.908018103173968,6.399348846742247,Luís and João Batalha: Fermat's Library and the Art of Studying Papers | Lex Fridman Podcast #209
+-14.279065293542494,1.838904194632855,Matt Walker: Sleep | Lex Fridman Podcast #210
+-20.454205793091305,19.799420670598977,Brian Muraresku: The Secret History of Psychedelics | Lex Fridman Podcast #211
+3.254552452025806,30.337735114881156,"Joscha Bach: Nature of Reality, Dreams, and Consciousness | Lex Fridman Podcast #212"
+-1.2524412664393798,0.2211766958938609,Barry Barish: Gravitational Waves and the Most Precise Device Ever Built | Lex Fridman Podcast #213
+-5.670905187632772,10.529618333480714,Jed Buchwald: Isaac Newton and the Philosophy of Science | Lex Fridman Podcast #214
+24.573461747179685,-9.53545463488594,"Wojciech Zaremba: OpenAI Codex, GPT-3, Robotics, and the Future of AI | Lex Fridman Podcast #215"
+-6.4621786765992715,-0.5453618215230285,Vincent Racaniello: Viruses and Vaccines | Lex Fridman Podcast #216
+13.510924453863446,-9.794634672705882,Rodney Brooks: Robotics | Lex Fridman Podcast #217
+1.9668409496945938,0.6597988658079063,"Jaron Lanier: Virtual Reality, Social Media & the Future of Humans and AI | Lex Fridman Podcast #218"
+16.721461976233115,1.313838808712022,"Donald Knuth: Programming, Algorithms, Hard Problems & the Game of Life | Lex Fridman Podcast #219"
+-15.594664054514409,-3.768026812698476,Niels Jorgensen: New York Firefighters and the Heroes of 9/11 | Lex Fridman Podcast #220
+23.806335163626514,4.8100742661197895,Douglas Lenat: Cyc and the Quest to Solve Common Sense Reasoning in AI | Lex Fridman Podcast #221
+27.500547993574575,17.105012344842734,Jay McClelland: Neural Networks and the Emergence of Cognition | Lex Fridman Podcast #222
+-17.957205935768464,-3.9622420140434884,"Travis Stevens: Judo, Olympics, and Mental Toughness | Lex Fridman Podcast #223"
+11.029107809243927,-13.234374049137477,"Travis Oliphant: NumPy, SciPy, Anaconda, Python & Scientific Programming | Lex Fridman Podcast #224"
+25.16028850307631,10.082572540509595,Jeffrey Shainline: Neuromorphic Computing and Optoelectronic Intelligence | Lex Fridman Podcast #225
+2.48123739839688,1.8847937737755074,Jo Boaler: How to Learn Math | Lex Fridman Podcast #226
+-12.234245672130845,23.669732625812408,"Sean Kelly: Existentialism, Nihilism, and the Search for Meaning | Lex Fridman Podcast #227"
+-21.43887106193814,-0.10633147003732124,"RZA: Wu-Tang Clan, Kung Fu, Chess, God, Life, and Death | Lex Fridman Podcast #228"
+-24.098671461166646,18.15962211116548,"Richard Wrangham: Violence, Sex, and Fire in Human Evolution | Lex Fridman Podcast #229"
+-15.907277196129517,3.865860378006621,"Kelsi Sheren: War, Artillery, PTSD, and Love | Lex Fridman Podcast #230"
+-19.442109017483794,-20.438847447824422,"Alex Gladstein: Bitcoin, Authoritarianism, and Human Rights | Lex Fridman Podcast #231"
+-6.0699426374564185,28.249900884617954,"Brian Greene: Quantum Gravity, The Big Bang, Aliens, Death, and Meaning | Lex Fridman Podcast #232"
+-23.30325565467606,7.988568815120325,"Carl Hart: Heroin, Cocaine, MDMA, Alcohol & the Role of Drugs in Society | Lex Fridman Podcast #233"
+6.878697188507087,15.64818884104237,Stephen Wolfram: Complexity and the Fabric of Reality | Lex Fridman Podcast #234
+-11.7798807497969,-8.628777943078948,Michael Mina: Rapid COVID Testing | Lex Fridman Podcast #235
+-20.69254796893861,-2.6042684175335973,Jimmy Pedro: Judo and the Forging of Champions | Lex Fridman Podcast #236
+-16.708884171728243,-12.988866123357756,Steve Viscelli: Trucking and the Decline of the American Dream | Lex Fridman Podcast #237
+-4.815643266948999,9.610060782684721,Francis Collins: National Institutes of Health (NIH) | Lex Fridman Podcast #238
+-29.984267146407618,-7.75575622239999,"Niall Ferguson: History of Money, Power, War, and Truth | Lex Fridman Podcast #239"
+0.5036036584621549,7.527920799092448,"Neal Stephenson: Sci-Fi, Space, Aliens, AI, VR & the Future of Humanity | Lex Fridman Podcast #240"
+14.74615190969184,-22.030962385128817,"Boris Sofman: Waymo, Cozmo, Self-Driving Cars, and the Future of Robotics | Lex Fridman Podcast #241"
+-23.061984394720113,-15.352735672438852,Ben Askren: Wrestling and MMA | Lex Fridman Podcast #242
+-18.99648984964041,-13.770845634328783,Kevin Systrom: Instagram | Lex Fridman Podcast #243
+-27.250941321711622,-6.676534399338271,"Robert Crews: Afghanistan, Taliban, Bin Laden, and War in the Middle East | Lex Fridman Podcast #244"
+-29.137000625148207,-13.836059615225205,Tom Brands: Iowa Wrestling | Lex Fridman Podcast #245
+-3.7767090581206677,15.356771767465117,Peter Woit: Theories of Everything & Why String Theory is Not Even Wrong | Lex Fridman Podcast #246
+-14.921919800417648,-3.393370820392011,Jamie Metzl: Lab Leak Theory | Lex Fridman Podcast #247
+-22.350352219274562,-4.146399469561208,"Norman Naimark: Genocide, Stalin, Hitler, Mao, and Absolute Power | Lex Fridman Podcast #248"
+-17.385729682631954,-6.469213364055124,Albert Bourla: Pfizer CEO | Lex Fridman Podcast #249
+21.421933383341475,1.6986498681380253,"Peter Wang: Python and the Source Code of Humans, Computers, and Reality | Lex Fridman Podcast #250"
+-23.305730029956443,-6.9815789264607675,"Ray Dalio: Money, Power, and the Collapse of Empires | Lex Fridman Podcast #251"
+13.97496680014973,-15.14875099660081,"Elon Musk: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI | Lex Fridman Podcast #252"
+-23.286799002240425,-9.122115895549697,Michael Malice: New Year's Special | Lex Fridman Podcast #253
+-11.938913490538111,-7.907141025073335,Jay Bhattacharya: The Case Against Lockdowns | Lex Fridman Podcast #254
+-25.268299757572898,-12.925590616300768,Mark Normand: Comedy! | Lex Fridman Podcast #255
+-22.536463832034286,0.8885717185672447,Nationalism Debate: Yaron Brook and Yoram Hazony | Lex Fridman Podcast #256
+-5.5077685076294065,17.997476875059814,"Brian Keating: Cosmology, Astrophysics, Aliens & Losing the Nobel Prize | Lex Fridman Podcast #257"
+28.283989484357726,0.3386548622194731,Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning | Lex Fridman Podcast #258
+14.477559230118619,-0.3427585178020362,Thomas Tull: From Batman Dark Knight Trilogy to AI and The Rolling Stones | Lex Fridman Podcast #259
+-20.441846314772874,-9.895989144095307,"Georges St-Pierre, John Danaher & Gordon Ryan: The Greatest of All Time | Lex Fridman Podcast #260"
+2.167805045088289,31.517508800428228,"Philip Goff: Consciousness, Panpsychism, and the Philosophy of Mind | Lex Fridman Podcast #261"
+-15.194017161015937,9.175274505126797,Garry Nolan: UFOs and Aliens | Lex Fridman Podcast #262
+-21.93804286095305,-4.810123604354953,John Abramson: Big Pharma | Lex Fridman Podcast #263
+6.652722198867603,7.005301081440963,"Tim Urban: Elon Musk, Neuralink, AI, Aliens, and the Future of Humanity | Lex Fridman Podcast #264"
+-20.80231252894665,-13.745705597599315,Devon Larratt: Arm Wrestling | Lex Fridman Podcast #265
+-5.037905695820245,-16.329300152483803,Nicole Perlroth: Cybersecurity and the Weapons of Cyberwar | Lex Fridman Podcast #266
+-5.07520732245129,-5.896401517915938,"Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse | Lex Fridman Podcast #267"
+3.347089958647687,34.043256736784514,"Lee Cronin: Origin of Life, Aliens, Complexity, and Consciousness | Lex Fridman Podcast #269"
+-24.777711882466935,5.964729512289693,David Wolpe: Judaism | Lex Fridman Podcast #270
+0.6912913449923811,10.702713593714739,Ariel Ekblaw: Space Colonization and Self-Assembling Space Megastructures | Lex Fridman Podcast #271
+-12.667675449393927,-20.415238652782314,Brett Johnson: US Most Wanted Cybercriminal | Lex Fridman Podcast #272
+-23.280732112246415,-2.588579752741834,Chris Blattman: War and Violence | Lex Fridman Podcast #273
+3.653046987448871,18.671779784176287,"Karl Deisseroth: Depression, Schizophrenia, and Psychiatry | Lex Fridman Podcast #274"
+-23.673646927980464,-9.907638562315926,Rick Rubin: Legendary Music Producer | Lex Fridman Podcast #275
+-15.847746989806062,-13.825580612451546,"Michael Saylor: Bitcoin, Inflation, and the Future of Money | Lex Fridman Podcast #276"
+-12.07252633087875,4.929646502824049,"Andrew Huberman: Focus, Stress, Relationships, and Friendship | Lex Fridman Podcast #277"
+-21.908317407590896,4.655461791682273,"Skye Fitzgerald: Hunger, War, and Human Suffering | Lex Fridman Podcast #278"
+-8.347054392173133,16.157632891596233,Alien Debate: Sara Walker and Lee Cronin | Lex Fridman Podcast #279
+-6.807050607286051,-16.451690935826406,Cristiano Amon: Qualcomm CEO | Lex Fridman Podcast #280
+10.6279631482911,0.8113732514440728,"Grimes: Music, AI, and the Future of Humanity | Lex Fridman Podcast #281"
+-20.504470349694657,-13.28815483713993,"Saifedean Ammous: Bitcoin, Anarchy, and Austrian Economics | Lex Fridman Podcast #284"
+-25.648521764351777,-5.965269539829882,"Glenn Loury: Race, Racism, Identity Politics, and Cancel Culture | Lex Fridman Podcast #285"
+-26.747127477924575,-11.141031692852774,Oliver Stone: Vladimir Putin and War in Ukraine | Lex Fridman Podcast #286
+-23.26379958779371,5.129285473659972,"Sarma Melngailis: Bad Vegan, Fraud, Prison, and Sociopathy | Lex Fridman Podcast #288"
+-25.213105435047442,-10.652433521397118,"Stephen Kotkin: Putin, Stalin, Hitler, Zelenskyy, and War in Ukraine | Lex Fridman Podcast #289"
+-19.147134991418284,-1.3103983741925571,Dan Reynolds: Imagine Dragons | Lex Fridman Podcast #290
+-7.144305839273599,21.622280105429734,"Robin Hanson: Alien Civilizations, UFOs, and the Future of Humanity | Lex Fridman Podcast #292"
+-4.561619858620328,30.90278988582215,Donald Hoffman: Reality is an Illusion - How Evolution Hid the Truth | Lex Fridman Podcast #293
+-7.972840795391522,-9.328604303228955,"Tony Fadell: iPhone, iPod, Nest, Steve Jobs, Design, and Engineering | Lex Fridman Podcast #294"
+-24.92001675148605,-6.231635638861558,Richard Wolff: Marxism and Communism | Lex Fridman Podcast #295
+-28.410871167708574,-5.122329594426454,"Douglas Murray: Racism, Marxism, and the War on the West | Lex Fridman Podcast #296"
+-11.056756876051917,16.564568115574883,Jonathan Reisman: The Human Body - From Sex & Sperm to Hands & Heart | Lex Fridman Podcast #297
+-15.801562819694785,7.507979860532633,Susan Cain: The Power of Introverts and Loneliness | Lex Fridman Podcast #298
+15.64730032936689,1.7780488063261763,"Demis Hassabis: DeepMind - AI, Superintelligence & the Future of Humanity | Lex Fridman Podcast #299"
+-24.980995385970818,0.26684955859154447,"Joe Rogan: Comedy, Controversy, Aliens, UFOs, Putin, CIA, and Freedom | Lex Fridman Podcast #300"
+-22.209335277429005,-11.513145488258525,Jack Barsky: KGB Spy | Lex Fridman Podcast #301
+0.156204649424115,9.678115890804621,"Richard Haier: IQ Tests, Human Intelligence, and Group Differences | Lex Fridman Podcast #302"
+-21.9902831721972,-6.603698366368398,"Steve Keen: Marxism, Capitalism, and Economics | Lex Fridman Podcast #303"
+-19.28744696783583,3.0309098568379556,Bishop Robert Barron: Christianity and the Catholic Church | Lex Fridman Podcast #304
+-6.605032025445716,22.590386472843065,"Martin Rees: Black Holes, Alien Life, Dark Matter, and the Big Bang | Lex Fridman Podcast #305"
+33.14329488395482,-8.03980733115039,Oriol Vinyals: Deep Learning and Artificial General Intelligence | Lex Fridman Podcast #306
+-15.939859730907763,-23.770599708613954,"Brian Armstrong: Coinbase, Cryptocurrency, and Government Regulation | Lex Fridman Podcast #307"
+-18.6559555067922,1.6212233313538669,"Ryan Graves: UFOs, Fighter Jets, and Aliens | Lex Fridman Podcast #308"
+9.056782238780594,-6.889699833323582,"John Carmack: Doom, Quake, VR, AGI, Programming, Video Games, and Rockets | Lex Fridman Podcast #309"
+-28.108944943874068,-11.28367661930421,Andrew Bustamante: CIA Spy | Lex Fridman Podcast #310
+-16.226338279025416,5.580884393944066,"Magatte Wade: Africa, Capitalism, Communism, and the Future of Humanity | Lex Fridman Podcast #311"
+-3.6767730273998147,10.438429668751533,"Duncan Trussell: Comedy, Sentient Robots, Suffering, Love & Burning Man | Lex Fridman Podcast #312"
+-23.364034660078076,5.848975561369405,"Jordan Peterson: Life, Death, Power, Fame, and Meaning | Lex Fridman Podcast #313"
+8.528782388242291,10.674681009057986,"Liv Boeree: Poker, Game Theory, AI, Simulation, Aliens & Existential Risk | Lex Fridman Podcast #314"
+-12.148982082670162,-7.815649360247045,Magnus Carlsen: Greatest Chess Player of All Time | Lex Fridman Podcast #315
+-23.711695607314056,-10.142213229848474,"Noam Chomsky: Putin, Ukraine, China, and Nuclear War | Lex Fridman Podcast #316"
+-15.584243087849071,21.169536108433444,"John Vervaeke: Meaning Crisis, Atheism, Religion & the Search for Wisdom | Lex Fridman Podcast #317"
+3.008536788256095,38.39387604200627,"Nick Lane: Origin of Life, Evolution, Aliens, Biology, and Consciousness | Lex Fridman Podcast #318"
+-8.816329926132013,-12.369239184032859,"Botez Sisters: Chess, Streaming, and Fame | Lex Fridman Podcast #319"
+-23.358608285352474,-5.051547326920511,"Christopher Capozzola: World War I, Ideology, Propaganda, and Politics | Lex Fridman Podcast #320"
+9.92200937395581,13.178701370794064,"Ray Kurzweil: Singularity, Superintelligence, and Immortality | Lex Fridman Podcast #321"
+22.0604034719381,-4.655969078883755,"Rana el Kaliouby: Emotion AI, Social Robots, and Self-Driving Cars | Lex Fridman Podcast #322"
+-14.32370835640887,-8.815864538797411,"Will Sasso: Comedy, MADtv, AI, Friendship, Madness, and Pro Wrestling | Lex Fridman Podcast #323"
+-18.81412093715008,-11.195224102784943,Daniel Negreanu: Poker | Lex Fridman Podcast #324
+2.9744258589751666,23.93562465299018,"Michael Levin: Biology, Life, Aliens, Evolution, Embryogenesis & Xenobots | Lex Fridman Podcast #325"

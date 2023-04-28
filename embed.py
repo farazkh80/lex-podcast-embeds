@@ -9,7 +9,8 @@ import streamlit as st
 st.set_page_config(layout="wide")
 
 
-co = cohere.Client('') # This is your trial API key
+# co = cohere.Client('') # This is your trial API key, uncomment this, comment line below
+co = cohere.Client(st.secrets["co_key"])
 
 def get_lexicon():
     url = 'https://karpathy.ai/lexicap/'

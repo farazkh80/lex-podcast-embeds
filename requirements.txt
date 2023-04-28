@@ -2,3 +2,4 @@ regex
 cohere
 streamlit
 plotly
+scikitleran

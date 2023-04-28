@@ -104,15 +104,21 @@ def visualize_clusters_plotly(embeds, episodes, n_clusters=10):
 
 if __name__=="__main__":
     st.title("Lex Fridman Podcast Episode Titles' Semantic Relevance")
-
-    # to compute and save embeddings
-    episodes = get_lexicon()
-    embeds = embed(episodes)
-    embeds = pca_embeds(embeds) # default is 2D
-    save_embeds(embeds, episodes)
+    st.write("Made by [Faraz](https://twitter.com/FarazDoTAI) using [Cohere](https://cohere.ai/) embedding models and [Andrej Karpathy's Lexicap](https://karpathy.ai/lexicap/)")
+    st.write("Code can be found [here](https://github.com/farazkh80/lex-podcast-embeds/tree/master)")
     
-    # to read embeddings from csv and visualize
-    embeds, episodes = read_embeds()
-    visualize_clusters_plotly(embeds, episodes,n_clusters=10)
+    # To compute and save embeddings
+    # with st.spinner("Computing Embeddings..."):
+        # episodes = get_lexicon()
+        # embeds = embed(episodes)
+        # embeds = pca_embeds(embeds) # default is 2D
+        # save_embeds(embeds, episodes)
+    
+    # To read embeddings from csv and visualize
+    with st.spinner("Visualizing Embeddings..."):
+        embeds, episodes = read_embeds()
+        visualize_clusters_plotly(embeds, episodes,n_clusters=10)
+
+    
     
    
